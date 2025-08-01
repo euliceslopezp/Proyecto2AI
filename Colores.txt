@@ -1,3 +1,6 @@
 blanco
 Azul
 verde
+Amarillo
+verde
+Amarillo
